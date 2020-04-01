@@ -1,0 +1,5 @@
+name: SurvivalGames
+main: com.gmail.filoghost.survivalgames.SurvivalGames
+version: 1.0
+
+softdepend: [WildCommons, WildChat]

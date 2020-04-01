@@ -1,0 +1,5 @@
+items:
+- name: Torta
+  id: cake, 1
+  price: 50
+  vip: false
